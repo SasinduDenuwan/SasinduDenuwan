@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <!-- Dynamic Typing Animation -->
@@ -202,3 +203,6 @@ while (alive) {
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 
 </div>
+=======
+
+>>>>>>> 98be87d412e9aabcad1d9d6819b5bc557ae7e314
