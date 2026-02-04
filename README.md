@@ -1,106 +1,81 @@
+
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sasindu%20Denuwan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20Intelligent%20Configurable%20Scalable%20Systems&descAlignY=51&descAlign=62" />
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2097F3&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B;I%27m+Sasindu+Denuwan;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning...)
-
-  ### 🚀 Welcome to my profile!
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SasinduDenuwan&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="SasinduDenuwan" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
   </a>
+</div>
+
+<br />
+
+<div align="center">
+  <h3> 🚀 Passionate about Technology, AI, and Innovation</h3>
+</div>
+
+<hr />
+
+## 👨‍💻 About Me
+
+I am a **Software Engineer** with a strong foundation in academic excellence and a drive for solving real-world problems. My journey involves a continuous pursuit of knowledge in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Full Stack Development**.
+
+- 🔭 **Current Focus**: developing intelligent, scalable software solutions and exploring advanced AI architectures.
+- 🌱 **Learning**: Deepening my expertise in **Cloud Computing** and **Modern Software Architectures**.
+- 💡 **Passion**: Integrating AI-driven features into robust responsive web and mobile applications.
+- 🤝 **Collaboration**: I value agile methodologies, code reviews, and effective team communication.
+
+---
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+| **Languages** | **Frontend** | **Backend** | **Databases** | **Tools & Cloud** |
+|:---:|:---:|:---:|:---:|:---:|
+| <img height="50" src="https://skillicons.dev/icons?i=java,js,python" /> | <img height="50" src="https://skillicons.dev/icons?i=react,html,css,redux" /> | <img height="50" src="https://skillicons.dev/icons?i=nodejs,express,spring" /> | <img height="50" src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" /> | <img height="50" src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" /> |
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on innovative **Web & Mobile Applications**.
-- 🌱 I’m currently learning **Advanced System Architecture & AI Integration**.
-- 👯 I’m looking to collaborate on **Open Source Projects**.
-- 💬 Ask me about **React, Node.js, and Cloud Computing**.
-- ⚡ Fun fact: **I can center a div without Googling it! (Sometimes)**
-
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SasinduDenuwan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <a href="https://github.com/SasinduDenuwan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SasinduDenuwan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasinduDenuwan&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasinduDenuwan&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <br/>
-
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SasinduDenuwan&theme=tokyonight&hide_border=true" alt="SasinduDenuwan" />
-  </a>
-
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SasinduDenuwan&theme=tokyonight" />
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+## 🐍 Contribution Graph
 
 <div align="center">
-
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  
-  <br/>
-
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  
-  <br/>
-  
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
+  <img src="https://github.com/SasinduDenuwan/SasinduDenuwan/blob/output/github-contribution-grid-snake.svg" alt="snake-animation" />
 </div>
-
----
-
-### 🐍 Snake Animation
 
 <!-- 
-NOTE: To make this update, you need to set up the GitHub Action 'Platane/snk'. 
-The image below is a placeholder or previous run.
+Note: The Snake animation above requires a GitHub Action to be set up in .github/workflows/snake.yml to generate the 'output' branch and the svg file. 
+If you haven't set that up, this image might be broken initially. 
 -->
-<div align="center">
-  <img src="https://github.com/SasinduDenuwan/SasinduDenuwan/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
 
 ---
 
 <div align="center">
-  
-  ### 🤝 Connect with me
-  
-  <a href="https://linkedin.com/in/your-linkedin-handle">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <h3>📫 Connect with Me</h3>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://twitter.com/your-twitter-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+</div>
 
-  <br /> <br />
+<br />
 
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=SasinduDenuwan&label=Profile%20Views&color=blue&style=flat-square" alt="SasinduDenuwan" />
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
