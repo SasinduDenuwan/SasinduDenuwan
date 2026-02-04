@@ -54,7 +54,7 @@ I am a **Software Engineer** with a strong foundation in academic excellence and
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github.com/SasinduDenuwan/SasinduDenuwan/blob/output/github-contribution-grid-snake.svg" alt="snake-animation" />
+  <img src="https://raw.githubusercontent.com/SasinduDenuwan/SasinduDenuwan/output/github-contribution-grid-snake.svg" alt="snake-animation" />
 </div>
 
 <!-- 
