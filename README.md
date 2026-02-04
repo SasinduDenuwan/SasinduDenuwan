@@ -19,6 +19,8 @@
 
 I am a **Software Engineer** with a strong foundation in academic excellence and a drive for solving real-world problems. My journey involves a continuous pursuit of knowledge in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Full Stack Development**.
 
+- 📚 **Education**: G.C.E. Ordinary Level (O/L): 9 A passes.
+- 📚 **Education**: Diploma in Information Technology (IT).
 - 🔭 **Current Focus**: developing intelligent, scalable software solutions and exploring advanced AI architectures.
 - 🌱 **Learning**: Deepening my expertise in **Cloud Computing** and **Modern Software Architectures**.
 - 💡 **Passion**: Integrating AI-driven features into robust responsive web and mobile applications.
